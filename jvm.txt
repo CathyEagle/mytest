@@ -1,2 +1,3 @@
 -XX:PermSize=32M -XX:MaxPermSize=64m -Xms128m -Xmx256m
-Creating a new branch is quick & simple
+create 啊 new branch is quick and simple
+
